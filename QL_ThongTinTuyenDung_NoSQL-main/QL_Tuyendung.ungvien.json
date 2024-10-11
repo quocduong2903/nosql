@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047a"
+  },
+  "MaUV": "UV001",
+  "HoTen": "Nguyễn Võ Lưu Ly",
+  "Tuoi": 25,
+  "ThongTinLH": {
+    "SoDT": "0456789123",
+    "Email": "nvll@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty A và công ty B",
+  "HocVan": "Tốt nghiệp ĐH CNTT",
+  "KyNang": "Lập trình C++, Giải quyết vấn đề",
+  "BangCapKhac": "Chứng chỉ Java",
+  "DonXinUngTuyen": {
+    "MaCV": "CV001",
+    "NgayNopDon": {
+      "$date": "2023-08-15T00:00:00.000Z"
+    },
+    "TrangThai": "Đạt",
+    "CuocPhongVan": {
+      "NgayPV": {
+        "$date": "2023-08-25T00:00:00.000Z"
+      },
+      "KetQuaPV": "Đạt",
+      "ThongTinKhac": "Cần xem xét thêm"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047b"
+  },
+  "MaUV": "UV002",
+  "HoTen": "Nguyễn Anh Thư",
+  "Tuoi": 28,
+  "ThongTinLH": {
+    "SoDT": "0321456789",
+    "Email": "nat@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty C và công ty D",
+  "HocVan": "Tốt nghiệp ĐH Kinh tế",
+  "KyNang": "Phân tích tài chính, Giao tiếp",
+  "BangCapKhac": "Chứng chỉ CFA",
+  "DonXinUngTuyen": {
+    "MaCV": "CV002",
+    "NgayNopDon": {
+      "$date": "2023-08-18T00:00:00.000Z"
+    },
+    "TrangThai": "Chưa xem xét",
+    "CuocPhongVan": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047c"
+  },
+  "MaUV": "UV003",
+  "HoTen": "Đinh Hoàng Lê",
+  "Tuoi": 23,
+  "ThongTinLH": {
+    "SoDT": "0567891234",
+    "Email": "dhl@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty E và công ty F",
+  "HocVan": "Tốt nghiệp ĐH Khoa học Xã hội",
+  "KyNang": "Quản lý dự án, Giao tiếp",
+  "BangCapKhac": "Chứng chỉ PMI",
+  "DonXinUngTuyen": {
+    "MaCV": "CV004",
+    "NgayNopDon": {
+      "$date": "2023-08-20T00:00:00.000Z"
+    },
+    "TrangThai": "Đang xem xét",
+    "CuocPhongVan": {
+      "NgayPV": {
+        "$date": "2023-08-28T00:00:00.000Z"
+      },
+      "KetQuaPV": "Chưa đạt",
+      "ThongTinKhac": "Cần phỏng vấn lại"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047d"
+  },
+  "MaUV": "UV004",
+  "HoTen": "Triệu Công Vũ",
+  "Tuoi": 26,
+  "ThongTinLH": {
+    "SoDT": "0789123456",
+    "Email": "tcv@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty G và công ty H",
+  "HocVan": "Tốt nghiệp ĐH Khoa học Tự nhiên",
+  "KyNang": "Lập trình Python, Giải quyết vấn đề",
+  "BangCapKhac": "Chứng chỉ SQL",
+  "DonXinUngTuyen": {
+    "MaCV": "CV003",
+    "NgayNopDon": {
+      "$date": "2023-08-22T00:00:00.000Z"
+    },
+    "TrangThai": "Chưa xem xét",
+    "CuocPhongVan": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047e"
+  },
+  "MaUV": "UV005",
+  "HoTen": "Lê Văn Khánh",
+  "Tuoi": 24,
+  "ThongTinLH": {
+    "SoDT": "0891234567",
+    "Email": "lvk@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty I và công ty J",
+  "HocVan": "Tốt nghiệp ĐH Kinh tế",
+  "KyNang": "Phân tích dữ liệu, Giao tiếp",
+  "BangCapKhac": "Chứng chỉ Excel",
+  "DonXinUngTuyen": {
+    "MaCV": "CV006",
+    "NgayNopDon": {
+      "$date": "2023-08-23T00:00:00.000Z"
+    },
+    "TrangThai": "Đã phỏng vấn",
+    "CuocPhongVan": {
+      "NgayPV": {
+        "$date": "2023-08-27T00:00:00.000Z"
+      },
+      "KetQuaPV": "Đạt",
+      "ThongTinKhac": "Sẽ cân nhắc"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a047f"
+  },
+  "MaUV": "UV006",
+  "HoTen": "Lê Hoàng Anh",
+  "Tuoi": 27,
+  "ThongTinLH": {
+    "SoDT": "0123456789",
+    "Email": "lha@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty K và công ty L",
+  "HocVan": "Tốt nghiệp ĐH Công nghệ thông tin",
+  "KyNang": "Phân tích hệ thống, Lập trình Java",
+  "BangCapKhac": "Chứng chỉ Scrum",
+  "DonXinUngTuyen": {
+    "MaCV": "CV005",
+    "NgayNopDon": {
+      "$date": "2023-08-25T00:00:00.000Z"
+    },
+    "TrangThai": "Đã từ chối",
+    "CuocPhongVan": {
+      "NgayPV": {
+        "$date": "2023-08-29T00:00:00.000Z"
+      },
+      "KetQuaPV": "Không đạt",
+      "ThongTinKhac": "Cảm ơn đã tham gia"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a0480"
+  },
+  "MaUV": "UV007",
+  "HoTen": "Vũ Thanh An",
+  "Tuoi": 29,
+  "ThongTinLH": {
+    "SoDT": "0345678912",
+    "Email": "vta@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty M và công ty N",
+  "HocVan": "Tốt nghiệp ĐH Khoa học Xã hội",
+  "KyNang": "Quản lý dự án, Giao tiếp",
+  "BangCapKhac": "Chứng chỉ PMP",
+  "DonXinUngTuyen": {
+    "MaCV": "CV007",
+    "NgayNopDon": {
+      "$date": "2023-08-28T00:00:00.000Z"
+    },
+    "TrangThai": "Chưa xem xét",
+    "CuocPhongVan": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a0481"
+  },
+  "MaUV": "UV008",
+  "HoTen": "Lê Trần Hoàng Vũ",
+  "Tuoi": 31,
+  "ThongTinLH": {
+    "SoDT": "0567891234",
+    "Email": "lthv@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty O và công ty P",
+  "HocVan": "Tốt nghiệp ĐH Kinh tế",
+  "KyNang": "Phân tích dữ liệu, Lập trình Python",
+  "BangCapKhac": "Chứng chỉ Data Science",
+  "DonXinUngTuyen": {
+    "MaCV": "CV006",
+    "NgayNopDon": {
+      "$date": "2023-08-30T00:00:00.000Z"
+    },
+    "TrangThai": "Đang xem xét",
+    "CuocPhongVan": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a0482"
+  },
+  "MaUV": "UV009",
+  "HoTen": "Nguyễn Xuân Bách",
+  "Tuoi": 25,
+  "ThongTinLH": {
+    "SoDT": "0891234567",
+    "Email": "nxb@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty Q và công ty R",
+  "HocVan": "Tốt nghiệp ĐH Công nghệ thông tin",
+  "KyNang": "Phân tích hệ thống, Lập trình Java",
+  "BangCapKhac": "Chứng chỉ Agile",
+  "DonXinUngTuyen": {
+    "MaCV": "CV002",
+    "NgayNopDon": {
+      "$date": "2023-08-31T00:00:00.000Z"
+    },
+    "TrangThai": "Đã từ chối",
+    "CuocPhongVan": {
+      "NgayPV": {
+        "$date": "2023-09-01T00:00:00.000Z"
+      },
+      "KetQuaPV": "Không đạt",
+      "ThongTinKhac": "Cảm ơn đã tham gia"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbf0e1f7d5ef5b90a0483"
+  },
+  "MaUV": "UV010",
+  "HoTen": "Phạm Hoàng Khang",
+  "Tuoi": 28,
+  "ThongTinLH": {
+    "SoDT": "0123456789",
+    "Email": "phk@gmail.com"
+  },
+  "KinhNghiem": "Kinh nghiệm làm việc tại công ty S và công ty T",
+  "HocVan": "Tốt nghiệp ĐH Kinh tế",
+  "KyNang": "Tư vấn doanh nghiệp, Giao tiếp",
+  "BangCapKhac": "Chứng chỉ Marketing",
+  "DonXinUngTuyen": {
+    "MaCV": "CV001",
+    "NgayNopDon": {
+      "$date": "2023-09-01T00:00:00.000Z"
+    },
+    "TrangThai": "Chưa xem xét",
+    "CuocPhongVan": null
+  }
+}]

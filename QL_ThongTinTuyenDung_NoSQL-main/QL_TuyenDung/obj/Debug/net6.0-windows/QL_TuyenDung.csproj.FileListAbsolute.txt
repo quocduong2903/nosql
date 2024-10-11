@@ -1,0 +1,288 @@
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvien.resources
+D:\Mon hoc\NoSql\QL_TuyenDung\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvien.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+C:\Users\chaun\OneDrive\Máy tính\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvien.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.Properties.Resources.resources
+D:\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvienn1.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvienn1.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.Properties.Resources.resources
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+C:\Users\chaun\Downloads\QL_TuyenDung\THANGHIEUKHUNG\QL_ThongTinTuyenDung_NoSQL-main\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_nhanvienn1.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.Properties.Resources.resources
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+C:\Users\zenon\Downloads\Compressed\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_saoluu_phuchoi.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.Properties.Resources.resources
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CopyComplete
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll
+D:\Github\QL_ThongTinTuyenDung_NoSQL\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_taikhoan.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.exe
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.deps.json
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.runtimeconfig.json
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\QL_TuyenDung.pdb
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\DnsClient.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Legacy.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\SharpCompress.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\Snappier.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\ZstdSharp.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\bin\Debug\net6.0-windows\WinForms_Library.pdb
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.AssemblyReference.cache
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_congtytuyen.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_dangnhap.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_main.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_saoluu_phuchoi.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_taikhoan.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_ungvien.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.frm_vieccantuyen.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.Properties.Resources.resources
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.GenerateResource.cache
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.GeneratedMSBuildEditorConfig.editorconfig
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfoInputs.cache
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.AssemblyInfo.cs
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.csproj.CoreCompileInputs.cache
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_Tuyen.02A42055.Up2Date
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\refint\QL_TuyenDung.dll
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.pdb
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\QL_TuyenDung.genruntimeconfig.cache
+F:\NOSQL\QL_ThongTinTuyenDung_NoSQL-main\QL_TuyenDung\obj\Debug\net6.0-windows\ref\QL_TuyenDung.dll

@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc1e"
+  },
+  "MaCTY": "CT001",
+  "TenCTY": "Cong ty FPT Ho Chi Minh",
+  "DiaChi": "12 D8 , Phuong Tan Phu , Quan 9 , TPHCM",
+  "SoDT": "0837362323",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Lap Trinh Java"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Lap Trinh Web"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc1f"
+  },
+  "MaCTY": "CT002",
+  "TenCTY": "Cong ty Viettel",
+  "DiaChi": "285 CMT8 , Phuong 12 , Quan 10 , TPHCM",
+  "SoDT": "0986105105",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Thiet Ke Do Hoa"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Bao Mat"
+    },
+    {
+      "MaCV": "CV003",
+      "TenCV": "Bao Ve"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc20"
+  },
+  "MaCTY": "CT003",
+  "TenCTY": "Cong ty VNG",
+  "DiaChi": "06 Duong 13 , Phuong Tan Thuan , Quan 7 , TPHCM",
+  "SoDT": "02839623888",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Lap Trinh Java"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Lap Trinh Web"
+    },
+    {
+      "MaCV": "CV003",
+      "TenCV": "HR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc21"
+  },
+  "MaCTY": "CT004",
+  "TenCTY": "Cong ty TH",
+  "DiaChi": "40 Nguyen Hue , Phuong 5 , Quan 1 , TPHCM",
+  "SoDT": "037541255",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Giu xe"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Shipper"
+    },
+    {
+      "MaCV": "CV003",
+      "TenCV": "Tiep thi"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc22"
+  },
+  "MaCTY": "CT005",
+  "TenCTY": "Cong ty KMS",
+  "DiaChi": "123 Cong Hoa , Phuong 12 , Quan Tan Binh , TPHCM",
+  "SoDT": "02838119977",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Ky Su Phan Mem"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Ky Thuat Vien"
+    },
+    {
+      "MaCV": "CV003",
+      "TenCV": "Markerting"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64eb558730db95cd493cbc23"
+  },
+  "MaCTY": "CT006",
+  "TenCTY": "Cong ty Along",
+  "DiaChi": "125 To Hien Thanh , Phuong 15 , Quan 10 , TPHCM",
+  "SoDT": "0862966481 ",
+  "ListCV": [
+    {
+      "MaCV": "CV001",
+      "TenCV": "Lap Trinh C"
+    },
+    {
+      "MaCV": "CV002",
+      "TenCV": "Lap Trinh IOS"
+    },
+    {
+      "MaCV": "CV003",
+      "TenCV": "Thiet ke do hoa"
+    }
+  ]
+}]

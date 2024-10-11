@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a046d"
+  },
+  "MaCV": "CV001",
+  "TenCV": "Kỹ sư phần mềm",
+  "PhongBan": "Phòng công nghệ",
+  "MoTaCV": "Mô tả công việc cho vị trí kỹ sư phần mềm",
+  "YeuCau": "Có kĩ năng xây dựng phần mềm và các công cụ, ngôn ngữ hỗ trợ dự án",
+  "NgayBatDau": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "LuongCoBan": 15000000,
+  "NhiemVu": [
+    "Phát triển và duy trì phần mềm",
+    "Tham gia thiết kế hệ thống111212",
+    "Xây dựng các tính năng mới",
+    "test"
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Nguyễn Văn Cừ",
+    "SoDT": "0123456789",
+    "Email": "nvc@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a046e"
+  },
+  "MaCV": "CV002",
+  "TenCV": "Nhân viên kế toán121212",
+  "PhongBan": "Phòng tài chính",
+  "MoTaCV": "Lập báo cáo thuế, kế hoạch chi tiêu, hoá đơn",
+  "YeuCau": "Yêu cầu kiến thức về kế toán và kinh nghiệm tương tự",
+  "NgayBatDau": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "LuongCoBan": 12000000,
+  "NhiemVu": [
+    ""
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Lê Thị Huyền",
+    "SoDT": "0987654321",
+    "Email": "lth@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a046f"
+  },
+  "MaCV": "CV003",
+  "TenCV": "Nhân viên kỹ thuật hỗ trợ",
+  "PhongBan": "Phòng hỗ trợ kỹ thuật",
+  "MoTaCV": "Helpdesk, hỗ trợ kỹ thuật",
+  "YeuCau": "Yêu cầu kiến thức về công nghệ và khả năng giải quyết vấn đề",
+  "NgayBatDau": {
+    "$date": "2023-09-10T00:00:00.000Z"
+  },
+  "LuongCoBan": 13000000,
+  "NhiemVu": [
+    "Hỗ trợ khách hàng giải quyết sự cố kỹ thuật",
+    "Cung cấp hướng dẫn sử dụng sản phẩm",
+    "Ghi nhận và báo cáo các vấn đề kỹ thuật"
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Phạm Tuấn Tú",
+    "SoDT": "0567891234",
+    "Email": "ptt@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a0470"
+  },
+  "MaCV": "CV004",
+  "TenCV": "Quản lý dự án",
+  "PhongBan": "Phòng quản lý dự án",
+  "MoTaCV": "Lập kế hoạch dự án, khảo sát nhu cầu khách hàng",
+  "YeuCau": "Yêu cầu kinh nghiệm quản lý dự án và khả năng lập kế hoạch",
+  "NgayBatDau": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "LuongCoBan": 18000000,
+  "NhiemVu": [
+    "Lập kế hoạch dự án và theo dõi tiến độ",
+    "Phân chia công việc cho các thành viên trong dự án",
+    "Tương tác với khách hàng và bên ngoài để báo cáo dự án",
+    {
+      "Value": "test273289"
+    }
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Lê Thị Vân Anh",
+    "SoDT": "0789123456",
+    "Email": "ltva@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a0471"
+  },
+  "MaCV": "CV005",
+  "TenCV": "Chuyên viên sale",
+  "PhongBan": "Phòng kinh doanh",
+  "MoTaCV": "Tư vấn bán hàng, tiếp thị sản phẩm",
+  "YeuCau": "Yêu cầu khả năng giao tiếp và kỹ năng bán hàng",
+  "NgayBatDau": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "LuongCoBan": 14000000,
+  "NhiemVu": [
+    "Tư vấn và giới thiệu sản phẩm cho khách hàng",
+    "Xây dựng mối quan hệ tốt với khách hàng",
+    "Thực hiện các chiến dịch quảng cáo và các chính sách hậu mãi"
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Nguyễn Văn Hào",
+    "SoDT": "0891234567",
+    "Email": "nvh@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a0472"
+  },
+  "MaCV": "CV006",
+  "TenCV": "Chuyên viên marketing",
+  "PhongBan": "Phòng Marketing",
+  "MoTaCV": "Phân tích thị trường, tạo chiến lược quảng cáo",
+  "YeuCau": "Yêu cầu kiến thức về Marketing và kỹ năng sáng tạo",
+  "NgayBatDau": {
+    "$date": "2023-09-08T00:00:00.000Z"
+  },
+  "LuongCoBan": 16000000,
+  "NhiemVu": [
+    "Phân tích thị trường và đối thủ cạnh tranh",
+    "Tạo nội dung quảng cáo và marketing trên các kênh trực tuyến",
+    "Đo lường hiệu suất chiến dịch marketing"
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Phạm Thị Hoa",
+    "SoDT": "0123456789",
+    "Email": "pth@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecbee91f7d5ef5b90a0473"
+  },
+  "MaCV": "CV007",
+  "TenCV": "Bảo vệ",
+  "PhongBan": "Phòng bảo vệ",
+  "MoTaCV": "Bảo vệ an ninh trật tự",
+  "YeuCau": "Không yêu cầu",
+  "NgayBatDau": {
+    "$date": "2023-09-08T00:00:00.000Z"
+  },
+  "LuongCoBan": 20000000,
+  "NhiemVu": [
+    "Đảm bảo trật tự, trông coi, sắp xếp, hướng dẫn đậu xe đúng quy định"
+  ],
+  "ThongTinLienHe": {
+    "TenNguoiLienHe": "Phạm Văn Hoà",
+    "SoDT": "0123456789",
+    "Email": "pvh@gmail.com"
+  }
+}]
